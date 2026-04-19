@@ -113,6 +113,8 @@ Targeted interventions can significantly reduce attrition:
 * `Report.pdf` – Detailed analysis
 * `Presentation.pptx` – Project summary
 * `Tutorial.mp4` – Dashboard walkthrough
+* ## Dashboard Demo
+[Watch Video](https://drive.google.com/file/d/1OvXb9nzo6yf90EqJJIFSeOfjvut_W8_3/view?usp=drive_link)
 
 ---
 
